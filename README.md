@@ -1,6 +1,6 @@
 # Bethel SAMS
 
-**Bethel System for Attendance Management and Statistics** - A comprehensive church management system built with Python and PySide6.
+**Bethel System for Attendance Management and Statistics** is a comprehensive church management system built with Python and PySide6.
 
 ## Overview
 
@@ -24,7 +24,6 @@ Bethel SAMS is a desktop application designed to help churches manage their memb
 - Track thanksgiving/voluntary offerings
 - Member-based financial records
 - Financial statistics with period comparisons
-- Color-coded change indicators (green for positive, red for negative)
 - Timeline and distribution charts
 - Separate financial database for security
 
